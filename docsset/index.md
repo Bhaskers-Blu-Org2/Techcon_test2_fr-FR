@@ -1,1 +1,0 @@
-# <a name="welcome-to-docsset"></a>Bienvenue dans docsset !
